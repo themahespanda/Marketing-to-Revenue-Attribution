@@ -1,0 +1,25 @@
+campaign_id,campaign_name,channel,campaign_type,start_date,end_date,marketing_spend,impressions,clicks
+CMP_GGL_01,Google Search - High Intent Brand & Lock,Google Ads,Search,2025-10-01,2026-09-25,1850000,680000,48000
+CMP_GGL_02,Google Search - Smart Security Camera,Google Ads,Search,2025-10-01,2026-09-25,1450000,720000,42000
+CMP_GGL_03,Google PMax - Smart Home Automation,Google Ads,Performance Max,2025-10-01,2026-09-25,2200000,1950000,78000
+CMP_GGL_04,Google Search - Competitor Conquesting,Google Ads,Search,2025-10-01,2026-09-25,980000,410000,24000
+CMP_IG_01,IG Reels - Aesthetic Smart Home Living,Instagram,Social Awareness,2025-10-01,2026-09-25,1600000,4200000,142000
+CMP_IG_02,IG Story Lead Form - Smart Lock Discount,Instagram,Social Lead Gen,2025-10-01,2026-09-25,1950000,5100000,185000
+CMP_IG_03,IG Carousel - Security Bundle Features,Instagram,Social Retargeting,2025-10-01,2026-09-25,1250000,2800000,92000
+CMP_IG_04,IG Video - DIY Smart Bulb Setup,Instagram,Social Awareness,2025-10-01,2026-09-25,850000,2400000,81000
+CMP_FB_01,FB Feed - Family Protection & Baby Monitor,Facebook,Social Lead Gen,2025-10-01,2026-09-25,1400000,3400000,98000
+CMP_FB_02,FB Lead Gen - Luxury Villa Smart Locks,Facebook,Social Lead Gen,2025-10-01,2026-09-25,1150000,2200000,64000
+CMP_FB_03,FB Retargeting - Cart Abandoners & Visitors,Facebook,Social Retargeting,2025-10-01,2026-09-25,950000,1500000,52000
+CMP_YT_01,YT TrueView - Home Robbery Prevention,YouTube,Video Awareness,2025-10-01,2026-09-25,1350000,3600000,68000
+CMP_YT_02,YT In-Stream - Full Apartment Tour Tech,YouTube,Video Consideration,2025-10-01,2026-09-25,1100000,2900000,51000
+CMP_YT_03,YT Shorts - 5 Smart Gadgets Every Flat Needs,YouTube,Video Awareness,2025-10-01,2026-09-25,750000,3100000,72000
+CMP_INF_01,Influencer - Top Tech YouTubers Home Overhaul,Influencer Marketing,Influencer,2025-10-01,2026-09-25,2100000,4500000,88000
+CMP_INF_02,Influencer - Interior Designers & Architects,Influencer Marketing,Influencer,2025-10-01,2026-09-25,1650000,2400000,54000
+CMP_INF_03,Influencer - Mommy Bloggers Security Review,Influencer Marketing,Influencer,2025-10-01,2026-09-25,950000,1900000,41000
+CMP_EML_01,Email - Weekly Smart Home Digest & Offers,Email,Retention / Nurture,2025-10-01,2026-09-25,350000,950000,48000
+CMP_EML_02,Email - Upgrade to Security Bundle VIP,Email,Cross-sell,2025-10-01,2026-09-25,420000,780000,39000
+CMP_EML_03,Email - Smart Lock Product Launch,Email,Product Launch,2025-10-01,2026-09-25,380000,840000,44000
+CMP_WA_01,WhatsApp - Instant Demo Booking & VIP Concierge,WhatsApp,Conversational Commerce,2025-10-01,2026-09-25,520000,650000,62000
+CMP_WA_02,WhatsApp - Abandoned Lead Re-engagement,WhatsApp,Conversational Retargeting,2025-10-01,2026-09-25,440000,520000,48000
+CMP_WA_03,WhatsApp - Post-Quote Follow-up & Discount,WhatsApp,Closing Assistant,2025-10-01,2026-09-25,390000,430000,41000
+CMP_SEO_01,SEO - Best Smart Locks India & Buying Guides,Organic Search,Inbound Organic,2025-10-01,2026-09-25,250000,1800000,94000
